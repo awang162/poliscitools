@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of poliscitools is to make cleaning up data easier. It cleans, analyzes, and visualizes data. 
+The goal of poliscitools is to make cleaning up data easier. It cleans, analyzes, and visualizes data. This is a practice package for a school project.  
 
 ## Installation
 
@@ -23,6 +23,6 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(poliscitools)
-## basic example code
+
 ```
 
