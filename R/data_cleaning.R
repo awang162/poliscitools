@@ -7,3 +7,4 @@ clean_political_data <- function(data) {
   # Your cleaning logic here
   data
 }
+

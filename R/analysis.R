@@ -7,3 +7,4 @@ analyze_turnout <- function(data) {
   # Your analysis logic here
   summary(data$turnout)
 }
+
