@@ -2,6 +2,7 @@
 # poliscitools
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/awang162/poliscitools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/awang162/poliscitools/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of poliscitools is to make cleaning up data easier. It cleans, analyzes, and visualizes data. This is a practice package for a school project.  
